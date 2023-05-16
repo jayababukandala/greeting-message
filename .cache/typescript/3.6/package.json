@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.644"
+  },
+  "devDependencies": {
+    "@types/d": "^1.0.1",
+    "@types/regenerator-runtime": "^0.13.1"
+  }
+}
